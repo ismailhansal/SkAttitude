@@ -17,7 +17,7 @@ const Footer = () => {
 
         {/* Contact section */}
         <div className="text-center mb-8">
-          <label htmlFor="contact" className="block text-xl mb-2 font-semibold">Nous Contacter</label>
+          <label htmlFor="contact" className="block text-xl mb-2 font-semibold mb-8">Nous Contacter</label>
           <div className="flex justify-center space-x-4">
             <input
               type="email"
