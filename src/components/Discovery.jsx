@@ -1,5 +1,5 @@
 import React from 'react'
-import discovery from '../assets/discovery.png'
+import discovery from '../assets/Discovery.png'
 import { motion } from "motion/react"
 
 const Discovery = () => {

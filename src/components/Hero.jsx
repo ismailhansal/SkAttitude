@@ -1,5 +1,5 @@
 import React from 'react';
-import landing from "../assets/landing.jpg";
+import landing from "../assets/Landing.jpg";
 import { motion } from "motion/react"
 
 const Hero = () => {
