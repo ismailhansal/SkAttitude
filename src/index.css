@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+
+*{
+
+  font-family:"poppins";
+  
+}
